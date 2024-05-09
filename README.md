@@ -2,6 +2,7 @@
 
 
 Using the below dataset of fifa players dataset. Perform Exploratory data analysis and find the following insights:
+
 1.Which country has the most number of players 
 2.Plot a bar chart of 5 top countries with the most number of players. 
 3.Which player has the highest salary?
